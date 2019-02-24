@@ -23,9 +23,8 @@
 
 This Laravel-Vue project is inspired by the awesome [vue-element-admin](http://panjiachen.github.io/vue-element-admin) (many thanks to [PanJiaChen](https://github.com/PanJiaChen) for the great works). Newest development stack of Laravel/Vue such as i18n, Envoy, vue-router,.. will be applied into this project.
 
-<p align="center">
-  <img width="900" src="http://doc.laravue.cipherpols.com/assets/screenshot.png">
-</p>
+## DEMO
+![](https://user-images.githubusercontent.com/39370721/53298696-afcdae00-3842-11e9-876c-418656c18130.gif)
 
 ## Preparation
 ** [Node](http://nodejs.org/)
@@ -44,8 +43,8 @@ You have to check installation guide of Laravel (https://laravel.com/docs/5.7)
 
 ```bash
 # Clone the project and run composer
-git clone https://github.com/tuandm/laravue.git
-cd laravue
+git clone https://github.com/dragonboy612/Laravel-Vue-Dashboard.git
+cd Laravel-Vue-Dashboard
 composer install
 
 # Create .env from .env.example
