@@ -16,7 +16,7 @@
   </a>
 </p>
 
-# Laravue
+
 
 ## Introduction
 [Laravue](http://laravue.cipherpols.com) is a beautiful dashboard based on [Laravel](https://laravel.com/), [vue](https://github.com/vuejs/vue) and use the UI Toolkit [element](https://github.com/ElemeFE/element).
