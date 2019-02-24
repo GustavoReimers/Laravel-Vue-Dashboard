@@ -1,22 +1,3 @@
-<p align="center">
-  <img width="320" src="http://doc.laravue.cipherpols.com/assets/laravue-logo-line.png">
-</p>
-<p align="center">
-  <a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/laravel-5.7-red.svg" alt="vue">
-  </a>
-  <a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/vue-2.6.6-brightgreen.svg" alt="vue">
-  </a>
-  <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/element--ui-2.5.4-brightgreen.svg" alt="element-ui">
-  </a>
-  <a href="https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="license">
-  </a>
-</p>
-
-
 
 ## Introduction
 [Laravue](http://laravue.cipherpols.com) is a beautiful dashboard based on [Laravel](https://laravel.com/), [vue](https://github.com/vuejs/vue) and use the UI Toolkit [element](https://github.com/ElemeFE/element).
