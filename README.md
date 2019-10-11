@@ -24,7 +24,7 @@ You have to check installation guide of Laravel (https://laravel.com/docs/5.7)
 
 ```bash
 # Clone the project and run composer
-git clone https://github.com/dragonboy612/Laravel-Vue-Dashboard.git
+git clone https://github.com/SeniorDev34/Laravel-Vue-Dashboard.git
 cd Laravel-Vue-Dashboard
 composer install
 
